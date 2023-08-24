@@ -1,7 +1,7 @@
 # desafio-felipao 
 
      # # # Desafio Classificador de nível de Herói ###
-================================================================================================     
+=============================================================================================    
 Nesse desafio de logica de programação proposto pelo Felipão-Dio 
 Tinha como o objetivo de Criar uma variável para armazenar o nome  e a quantidade de experiência (XP) de um herói  
 utilizando uma estrutura de decisão para apresentar alguma das mensagens abaixo:
@@ -15,7 +15,7 @@ Se XP for entre 8.001 e 9.000 = Ascendente
 Se XP for entre 9.001 e 10.000= Imortal
 Se XP for maior ou igual a 10.001 = Radiante
 
-================================================================================================
+============================================================================================
 O Que foi utilizado para o desafio **
 
 - Variáveis(xp como variavel de experiencia do herói, variavel nomeHeroi para o nome do herói , classificacao como variavel de decisão)  
